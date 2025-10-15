@@ -1,5 +1,7 @@
 <!-- Profile README for github.com/Akirai0 -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f00ff,100:00f&height=120&section=header"/>
+</p>
 ---
 
 <h2 align="center">👾 Hi, I'm Akirai 👾</h2>
