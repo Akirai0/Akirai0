@@ -2,13 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9f00ff,100:00f&height=120&section=header"/>
 </p>
----
-
 <h2 align="center">👾 Hi, I'm Akirai 👾</h2>
 <p align="center">
   <b>Game & Web Developer | Unity / .NET / PHP | Always Learning</b><br/>
 </p>
-
 ---
 
 ## 🧠 About Me
