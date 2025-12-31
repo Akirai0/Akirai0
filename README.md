@@ -24,7 +24,7 @@
 |:--|:--|:--|
 | 🎮 **Japanese Typing Game** | A gamified Japanese typing & learning system | Unity / C# / ONNX |
 | [**Webatv**](https://github.com/Akirai0/Webatv) | A demo e-commerce TV store | PHP |
-| [**Web-E-Portfolio**](https://github.com/Akirai0/Web-E-Portfolio) | My personal portfolio website | HTML / CSS |
+| [**Web-E-Portfolio**](https://github.com/Akirai0/my-portfolio) | My personal portfolio website | Vite |
 | [**test_dotnet_webApi**](https://github.com/Akirai0/test_dotnet_webApi) | CRUD API using ASP.NET Web API | C# / ASP.NET |
 | [**web-office**](https://github.com/Akirai0/web-office) | Experimental office management web system | HTML / JavaScript |
 
